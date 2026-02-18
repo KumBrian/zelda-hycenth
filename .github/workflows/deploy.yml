@@ -29,4 +29,4 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y lftp
-          lftp -c "set ftp:ssl-allow no; open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ${{ secrets.FTP_SERVER }}; mirror -R -v --parallel=4 --exclude .git/ --exclude .gitattributes --exclude .gitignore ./.output/public/ ./domains/zeldaandhycenth.com/public_html/"
+          lftp -c "set ftp:ssl-allow yes; set ssl:verify-certificate no; open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ${{ secrets.FTP_SERVER }}; mirror -R -v --parallel=4 --exclude .git/ --exclude .gitattributes --exclude .gitignore ./.output/public/ ./domains/zeldaandhycenth.com/public_html/"
