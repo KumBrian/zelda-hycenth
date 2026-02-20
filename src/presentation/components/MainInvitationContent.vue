@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import FlyerHeader from "./sections/FlyerHeader.vue";
-import FlyerDetails from "./sections/FlyerDetails.vue";
 import FlyerQuote from "./sections/FlyerQuote.vue";
 import FlyerFooter from "./sections/FlyerFooter.vue";
 import FlyerTimeline from "./sections/FlyerTimeline.vue";
@@ -11,7 +10,7 @@ import FlyerDivider from "./sections/FlyerDivider.vue";
 
 <template>
   <div
-    class="relative w-full min-h-screen flex flex-col items-center justify-center py-24 px-6 md:px-12 overflow-hidden bg-[#FDF5E6]"
+    class="relative w-full min-h-screen flex flex-col items-center justify-center py-24 px-6 md:px-12 overflow-hidden bg-[#F6F7EC]"
   >
     <!-- Background Texture (Optional) -->
     <div
@@ -74,7 +73,6 @@ import FlyerDivider from "./sections/FlyerDivider.vue";
     <!-- Main Content Container (Card-like) -->
     <div class="relative z-10 w-full max-w-5xl flex flex-col items-center">
       <FlyerHeader />
-      <FlyerDetails />
 
       <FlyerDivider />
       <FlyerQuote class="w-screen max-w-none -mx-[calc(50vw-50%)]" />

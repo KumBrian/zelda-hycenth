@@ -41,9 +41,9 @@
       </div>
 
       <!-- Right Column: Text Content -->
-      <div class="text-center md:text-left text-[#0E4D65]">
+      <div class="text-center md:text-left text-[#152146]">
         <p
-          class="font-serif tracking-[0.2em] text-[#8B4513] mb-4 text-lg uppercase"
+          class="font-serif tracking-[0.2em] text-[#A87D3B] mb-4 text-lg uppercase"
         >
           Travel & Stay
         </p>
@@ -55,7 +55,7 @@
           <a
             href="https://maps.app.goo.gl/oA76uMpyKpZTcb5B9"
             target="_blank"
-            class="font-bold hover:text-[#D4AF37] transition-colors underline decoration-dotted"
+            class="font-bold hover:text-[#A87D3B] transition-colors underline decoration-dotted"
           >
             Eleya Hotels Böblingen
           </a>
@@ -85,9 +85,9 @@
         </div>
 
         <p
-          class="font-serif text-lg md:text-xl leading-relaxed italic text-[#8B4513]"
+          class="font-serif text-lg md:text-xl leading-relaxed italic text-[#A87D3B]"
         >
-          Please ensure to book by August 12th, 2026 to secure the special group
+          Please ensure to book by July 10th, 2026 to secure the special group
           rate.
         </p>
       </div>

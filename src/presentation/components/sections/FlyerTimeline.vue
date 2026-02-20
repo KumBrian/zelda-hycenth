@@ -6,23 +6,23 @@
     "
   >
     <!-- Dark Overlay -->
-    <div class="absolute inset-0 bg-[#0E4D65]/80 mix-blend-multiply"></div>
+    <div class="absolute inset-0 bg-[#152146]/80 mix-blend-multiply"></div>
 
     <div class="relative z-10 container mx-auto px-4 text-center max-w-7xl">
       <!-- Section Title -->
-      <h3 class="font-handwriting text-5xl md:text-7xl mb-16 text-[#FDF5E6]">
+      <h3 class="font-handwriting text-5xl md:text-7xl mb-16 text-[#F6F7EC]">
         Timeline of Events
       </h3>
 
       <!-- Main Timeline Grid -->
       <div
-        class="grid grid-cols-1 lg:grid-cols-4 text-[#FDF5E6] gap-8 lg:gap-0"
+        class="grid grid-cols-1 lg:grid-cols-4 text-[#F6F7EC] gap-8 lg:gap-0"
       >
         <!-- Friday Column -->
         <div class="lg:col-span-1 flex flex-col items-center relative">
           <!-- Vertical Divider (Right border) -->
           <div
-            class="hidden lg:block absolute right-0 top-0 bottom-0 w-px bg-[#FDF5E6]/40"
+            class="hidden lg:block absolute right-0 top-0 bottom-0 w-px bg-[#F6F7EC]/40"
           ></div>
 
           <!-- Header -->
@@ -42,7 +42,7 @@
           </div>
 
           <!-- Divider -->
-          <div class="w-full h-px bg-[#FDF5E6]/40 my-4"></div>
+          <div class="w-full h-px bg-[#F6F7EC]/40 my-4"></div>
 
           <!-- Event Details -->
           <div class="pt-2 px-4">
@@ -58,7 +58,7 @@
               <p
                 class="font-serif italic text-lg leading-snug group-hover:underline"
               >
-                Katholische Kirche St. Maria (Parish Hall)
+                Katholische Kirche St. Maria (Alfred Delp Haus)
               </p>
               <p class="text-sm">Berliner Str. 14, 71034 Böblingen</p>
             </a>
@@ -72,7 +72,7 @@
         <div class="lg:col-span-2 flex flex-col relative">
           <!-- Vertical Divider (Right border) -->
           <div
-            class="hidden lg:block absolute right-0 top-0 bottom-0 w-px bg-[#FDF5E6]/40"
+            class="hidden lg:block absolute right-0 top-0 bottom-0 w-px bg-[#F6F7EC]/40"
           ></div>
 
           <!-- Header -->
@@ -88,7 +88,7 @@
             <div class="flex flex-col items-center relative gap-0 pb-8 lg:pb-0">
               <!-- Mobile Divider -->
               <div
-                class="lg:hidden w-full h-px bg-[#FDF5E6]/30 absolute bottom-0"
+                class="lg:hidden w-full h-px bg-[#F6F7EC]/30 absolute bottom-0"
               ></div>
 
               <div class="h-32 flex items-end justify-center pb-4">
@@ -98,9 +98,9 @@
                   alt="Church Service"
                 />
               </div>
-              <div class="w-full h-px bg-[#FDF5E6]/40 my-4"></div>
+              <div class="w-full h-px bg-[#F6F7EC]/40 my-4"></div>
               <div class="pt-2 px-4">
-                <p class="font-serif text-2xl italic mb-1">16:00</p>
+                <p class="font-serif text-2xl italic mb-1">16:00 (prompt)</p>
                 <p class="font-serif text-xl uppercase tracking-widest mb-4">
                   Church Blessings & Vows
                 </p>
@@ -131,7 +131,7 @@
                   alt="Reception"
                 />
               </div>
-              <div class="w-full h-px bg-[#FDF5E6]/40 my-4"></div>
+              <div class="w-full h-px bg-[#F6F7EC]/40 my-4"></div>
               <div class="pt-2 px-4">
                 <p class="font-serif text-2xl italic mb-1">19:00</p>
                 <p class="font-serif text-xl uppercase tracking-widest mb-4">
@@ -145,7 +145,7 @@
                   <p
                     class="font-serif italic text-lg leading-snug group-hover:underline"
                   >
-                    Melody Event Centre
+                    Melodi Event Centre
                   </p>
                   <p class="text-sm">Dornierstraße 14, 71034 Böblingen</p>
                 </a>
@@ -176,18 +176,18 @@
           </div>
 
           <!-- Divider -->
-          <div class="w-full h-px bg-[#FDF5E6]/40 my-4"></div>
+          <div class="w-full h-px bg-[#F6F7EC]/40 my-4"></div>
 
           <!-- Event Details -->
           <div class="pt-2 px-4">
-            <p class="font-serif text-2xl italic mb-1">14:00</p>
+            <p class="font-serif text-2xl italic mb-1">13:00</p>
             <p class="font-serif text-xl uppercase tracking-widest mb-4">
               After Party Grill (BBQ)
             </p>
             <a
               href="https://maps.app.goo.gl/uCHfcaWud9eFMMFt8"
               target="_blank"
-              class="flex flex-col items-center gap-1 opacity-90 hover:opacity-100 hover:text-[#D4AF37] transition-colors group"
+              class="flex flex-col items-center gap-1 opacity-90 hover:opacity-100 hover:text-[#A87D3B] transition-colors group"
             >
               <p
                 class="font-serif italic text-lg leading-snug group-hover:underline"
