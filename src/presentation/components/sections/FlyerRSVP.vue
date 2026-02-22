@@ -13,21 +13,21 @@
       <p class="text-lg md:text-xl mb-4 max-w-2xl mx-auto">
         Kindly respond with your attendance and guest count by 30.06.2026.
       </p>
-      <p class="text-lg md:text-xl font-light max-w-3xl mx-auto mb-8">
-        Contact our planners on
-        <span class="font-bold"
-          >+491784377896, +4915236345161, +4917683170259</span
-        >
-      </p>
-
       <a
         href="https://forms.gle/Gf8Mvt7DMgfpYNLBA"
         target="_blank"
         rel="noopener noreferrer"
-        class="inline-block px-10 py-4 bg-[#152146] text-[#F6F7EC] font-serif uppercase tracking-widest hover:bg-[#A87D3B] hover:text-[#152146] transition-all duration-300 transform hover:-translate-y-1 shadow-xl"
+        class="inline-block px-10 py-4 mb-8 bg-[#152146] text-[#F6F7EC] font-serif uppercase tracking-widest hover:bg-[#A87D3B] hover:text-[#152146] transition-all duration-300 transform hover:-translate-y-1 shadow-xl"
       >
         Click here to RSVP
       </a>
+
+      <p class="text-lg md:text-xl font-light max-w-3xl mx-auto mt-4">
+        For questions before or during the wedding, contact
+        <span class="font-bold"
+          >+491784377896, +4915236345161, +4917683170259</span
+        >
+      </p>
     </div>
   </div>
 </template>
