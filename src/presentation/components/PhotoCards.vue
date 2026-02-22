@@ -45,7 +45,7 @@ const props = defineProps<{
         />
       </div>
       <p class="font-handwriting text-center text-gray-800 text-xl font-bold">
-        Zelda + Hycenth
+        Zelda & Hycenth
       </p>
     </div>
   </div>
