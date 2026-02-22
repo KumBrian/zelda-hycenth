@@ -20,6 +20,7 @@ const props = defineProps<{
         <img
           src="/images/generated/original.jpeg"
           class="w-full h-full object-contain"
+          alt="Couple Photo"
         />
       </div>
       <p class="font-handwriting text-center text-gray-800 text-xl font-bold">
