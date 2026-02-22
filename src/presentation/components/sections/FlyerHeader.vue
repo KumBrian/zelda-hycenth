@@ -2,7 +2,7 @@
   <div class="flex flex-col items-center text-center z-10 w-full mb-12">
     <!-- Occasion -->
     <p
-      class="font-serif font-bold tracking-[0.2em] text-[#A87D3B] mt-8 mb-4 text-lg md:text-xl uppercase"
+      class="font-serif font-black tracking-widest text-[#A87D3B] mt-16 md:mt-24 mb-6 text-2xl md:text-3xl uppercase drop-shadow-md"
     >
       INVITATION
     </p>
