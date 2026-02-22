@@ -10,9 +10,18 @@
 
     <div class="relative z-10 container mx-auto px-4 text-center max-w-7xl">
       <!-- Section Title -->
-      <h3 class="font-handwriting text-5xl md:text-7xl mb-16 text-[#F6F7EC]">
-        Timeline of Events
-      </h3>
+      <div class="mb-12 md:mb-16">
+        <h3
+          class="font-handwriting text-5xl md:text-7xl mb-4 md:mb-6 text-[#F6F7EC]"
+        >
+          Timeline of Events
+        </h3>
+        <p
+          class="font-serif italic text-lg md:text-xl text-[#F6F7EC]/80 tracking-wide"
+        >
+          (Click on any location below to open in Google Maps)
+        </p>
+      </div>
 
       <!-- Main Timeline Grid -->
       <div
