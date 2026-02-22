@@ -18,7 +18,7 @@ const props = defineProps<{
     >
       <div class="w-full h-[75%] overflow-hidden mb-2">
         <img
-          src="/images/generated/photo-couple-beach.png"
+          src="/images/generated/couple_in_nature_accurate.png"
           class="w-full h-full object-cover"
         />
       </div>

@@ -1,11 +1,5 @@
 <template>
   <div class="w-full text-center pb-12">
-    <p
-      class="font-handwriting text-3xl md:text-5xl text-[#A87D3B] mb-8 animate-pulse"
-    >
-      Formal invitation to follow
-    </p>
-
     <!-- Footer Credit -->
     <p class="font-serif text-xs text-[#152146]/60 uppercase tracking-widest">
       © 2026 Zelda &amp; Hycenth Anniversary
